@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.html{
+    background-color: #6b6971;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
+a{
+    text-decoration: none ;
+}
+.head-shop{
+    background-color: rgb(17, 0, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-between;
+    height: 10vh;
+    max-height: 10vh;
+    min-height: 10vh;
+}
+#logo{
+    flex:1;
+    color: rgb(255, 255, 255);
+    padding-left: 5rem;
+
+   
+}
+.head-shop ul {
+    flex: 0.3;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 5rem;
+
+
+}
+.head-shop ul li a{
+   color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.head-shop ul li a:hover{
+    background-color: black;
+    border: none;
+    border-radius: 1rem;
+}
+
+
+
+li{
+    list-style: none;
+}
+.menu-button{
+    text-align: center;
+    margin-top: 2rem;
+}
+#menu{
+    margin-top: 1rem;
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
+#menu  a:hover{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+
+}
+.menu-button button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.Home{
+    display: flex;
+    width: 80%;
+    height: 100vh;
+    background-color: gray;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    border: none;
+    border-radius: 5rem;
+}
+.drink1 img{
+    width: 30rem;
+    height: 21rem;
+    margin-left: -0rem;
+}
+.text-drink1{
+    margin-top: -3rem;
+    margin-left: 13rem;
+}
+#btt {
+    padding: 0.5rem 2rem;
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-left: -0.5rem;
+    border: none;
+    border-radius: 2rem;
+    background-color: blue;
+    color: white;
+}
+#btt a:hover{
+    font-weight: bold;
+    background-color: black;
+}
+.drink2 img{
+    width: 25rem;
+    height: 45rem;
+    margin-left: -10rem;
+    margin-top: -12rem;
+}
+.text-drink2{
+    margin-top: -15rem;
+    margin-left: 0rem;
+}
+.drink3 img{
+    width: 25rem;
+    height: 45rem;
+    margin-left: -8rem;
+    margin-top: -14rem;
+}
+.text-drink3{
+    margin-top: -13rem;
+    margin-left: 2rem;
+}
+.drink4 img{
+    width: 30rem;
+    height: 50rem;
+    margin-left: -14rem;
+    margin-top: -14rem;
+}
+.text-drink4{
+    margin-top: -18rem;
+    margin-left: 1rem;
+}
+.drink5 img{
+    width: 30rem;
+    height: 20rem;
+    margin-left: -78rem;
+    margin-top: 25rem;
+}
+.text-drink5{
+    margin-top: -2rem;
+    margin-left: -65rem;
+}
+.drink6 img{
+    width: 25rem;
+    height: 40rem;
+    margin-left: -58rem;
+    margin-top: 15.5rem;
+}
+.text-drink6{
+    margin-top: -12.5rem;
+    margin-left: -48rem;
+}
+.drink7 img{
+    width: 25rem;
+    height: 40rem;
+    margin-left: -40rem;
+    margin-top: 13rem;
+}
+.text-drink7{
+    margin-top: -10rem;
+    margin-left: -30rem;
+}
+.drink8 img{
+    width: 30rem;
+    height: 48rem;
+    margin-left: -29rem;
+    margin-top: 11rem;
+}
+.text-drink8{
+    margin-top: -16rem;
+    margin-left: -14rem;
+}
+
+
+.Social ul li img{
+ 
+    width: 2rem;
+    height: 2rem;
+}
+.Social ul{
+    margin-top: 10rem;
+    display: flex;
+    margin-left: 100%;
+}
+
+.Social{
+    display: flex;
+    justify-content: center;   
+}
+.Social ul {
+   
+    float: left;
+    margin: 10px;
+    display: flex;
+}
+.Social ul li {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.Social img{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 400px;
+}
+li{
+    list-style: none;
+}
+.Social ul {
+   
+    float: left;
+    margin-left: 0rem;
+    display: flex;
+}
+.Social ul li {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.Social img{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 400px;
+}
+
+
